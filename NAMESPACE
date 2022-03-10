@@ -1,0 +1,9 @@
+useDynLib(fastConcProb, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+import(vctrs)
+importFrom("utils", "combn")
+
+export(concProb_bin_bruteForce)
+export(concProb_bin_fast)
+export(concProb_cont_fast)
+export(concProb_cont_bruteForce)

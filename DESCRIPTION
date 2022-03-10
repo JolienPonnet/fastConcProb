@@ -1,0 +1,13 @@
+Package: fastConcProb
+Type: Package
+Title: Fast exact calculation of concordance probability
+Version: 1.0
+Author: Jolien Ponnet [aut, cre],
+  Jakob Raymaekers [aut],
+  Robin Van Oirbeek [aut],
+  Tim Verdonck [aut]
+Maintainer: Jolien Ponnet <jolien.ponnet@kuleuven.be>
+Description: This package gives two exact methods to calculate the concordance probability in an efficient way.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.7), vctrs
+LinkingTo: Rcpp, RcppArmadillo
