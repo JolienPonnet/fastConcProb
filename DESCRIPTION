@@ -1,7 +1,7 @@
 Package: fastConcProb
 Type: Package
 Title: Fast exact calculation of concordance probability
-Version: 1.0
+Version: 1.0.0
 Author: Jolien Ponnet [aut, cre],
   Jakob Raymaekers [aut],
   Robin Van Oirbeek [aut],
