@@ -17,7 +17,7 @@
 }
 
 \author{
-  Ponnet J., Raymaekers J., Van Oirbeek R., Verdonck T.\cr
+  Ponnet J., Raymaekers J., Verdonck T.\cr
   Maintainer: Ponnet J. <jolien.ponnet@kuleuven.be>
 }
 
